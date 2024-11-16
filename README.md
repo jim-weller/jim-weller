@@ -1,0 +1,7 @@
+- 👋 **Hey there!** I'm **@jim-weller** – a tech veteran with over 20 years of experience in software and platform engineering, enterprise architecture, and leading teams across industries like retail, finance, higher education, and software.
+- 👀 **Currently into:** Platform engineering, AI/ML delivery, including hands-on exploration with AWS Bedrock, LM Studio, Langchain, PandasAI, and Chainlit. Mostly I follow my muse here.
+- 🌱 **Lifelong learner:** Whether it's building things in my workshop, outdoor adventures, or diving into new tech, I'm driven by that exhilarating tipping point where learning opens up new horizons.
+- 💞️ **Looking to collaborate on:** Cutting-edge tech projects that blend innovation, meaningful solutions, and maybe a dash of humor.
+- 📫 **Reach me at:** If you need me, I'll be there. If I'm not, try https://www.linkedin.com/in/jwweller/
+- 😄 **Pronouns:** He/Him.
+- ⚡ **Fun fact:** I grew up off-grid on a homestead. And I lived in Alaska for 25 years.
